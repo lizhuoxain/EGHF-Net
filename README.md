@@ -1,2 +1,2 @@
 # EGHF-Net
-EGHF-Net官方实现
+"The code will be made publicly available upon publication."
